@@ -1,0 +1,20 @@
+body { 
+	color: #666;
+	font-family:Tahoma, Geneva, sans-serif;
+	background:#eee; 
+}
+.cor1 { height: 100px; background: #D6FF4F; }
+.cor2 { height: 100px; background: #A6E840; }
+.cor3 { height: 100px; background: #D3E865; }
+.cor4 { height: 100px; background: #E8D940; }
+.cor5 { height: 100px; background: #FFDC47; }
+.cor6 { height: 100px; background: #FFF87B; }
+.cor6 { height: 100px; background: #F7FF54; }
+
+p{
+	text-align:center;
+	line-height:100px;
+}
+h1{
+	margin:1.5% 0% 1.5% 0%;
+}
